@@ -14,5 +14,6 @@ blablablablablb
 blawekj2
 finalchange
 jk
-# Copyright
-2014.Git.Training.
+# Copyright 
+2014.Git.Training.--second change
+third change
